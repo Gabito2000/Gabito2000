@@ -7,5 +7,5 @@
 [![My Skills](https://skillicons.dev/icons?i=vue,css,discord,bots,firebase,flask,flutter,html,js,jest,mysql,nodejs,py,react,regex,sqlite)](https://skillicons.dev)
 
 📕 I learned on university: <br>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,mysqlpy,react,regex,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,mysql,py,react,regex,sqlite)](https://skillicons.dev)
 
