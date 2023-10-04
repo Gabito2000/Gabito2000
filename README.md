@@ -15,4 +15,5 @@
 <!--
 TODO
 add a href to the images so when clicked they open the list of the projects.
+https://skillicons.dev/icons?i=vue,css,discord,bots,firebase,flask,flutter,html,js,jest,mysql,nodejs,py,react,regex,sqlite,godot
 -->
